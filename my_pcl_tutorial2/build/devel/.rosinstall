@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/reza/ROS_Workspace/my_pcl_tutorial2/build/devel/setup.sh
