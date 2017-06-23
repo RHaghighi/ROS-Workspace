@@ -1,0 +1,8 @@
+prefix=/home/reza/catkin_ws/devel
+
+Name: motion_detection
+Description: Description of motion_detection
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/reza/catkin_ws/devel/lib 
+Requires: pcl_conversions pcl_ros roscpp rospy std_msgs

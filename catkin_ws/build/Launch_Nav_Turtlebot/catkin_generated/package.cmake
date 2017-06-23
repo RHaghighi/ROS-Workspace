@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "Launch_Nav_Turtlebot")
+set(Launch_Nav_Turtlebot_MAINTAINER "reza <reza@todo.todo>")
+set(Launch_Nav_Turtlebot_DEPRECATED "")
+set(Launch_Nav_Turtlebot_VERSION "0.0.0")
+set(Launch_Nav_Turtlebot_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(Launch_Nav_Turtlebot_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(Launch_Nav_Turtlebot_BUILDTOOL_DEPENDS "catkin")

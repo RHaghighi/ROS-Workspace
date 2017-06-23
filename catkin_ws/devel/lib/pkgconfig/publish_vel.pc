@@ -1,0 +1,8 @@
+prefix=/home/reza/catkin_ws/devel
+
+Name: publish_vel
+Description: Description of publish_vel
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/reza/catkin_ws/devel/lib 
+Requires: roscpp rospy std_msgs

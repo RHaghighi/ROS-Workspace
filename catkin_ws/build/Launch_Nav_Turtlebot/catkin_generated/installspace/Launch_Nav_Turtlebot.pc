@@ -1,0 +1,8 @@
+prefix=/home/reza/catkin_ws/install
+
+Name: Launch_Nav_Turtlebot
+Description: Description of Launch_Nav_Turtlebot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/reza/catkin_ws/install/lib 
+Requires: 

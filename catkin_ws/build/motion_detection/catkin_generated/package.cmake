@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "motion_detection")
+set(motion_detection_MAINTAINER "reza <reza@todo.todo>")
+set(motion_detection_DEPRECATED "")
+set(motion_detection_VERSION "0.0.0")
+set(motion_detection_BUILD_DEPENDS "pcl_conversions" "pcl_ros" "roscpp" "rospy" "std_msgs" "libpcl-all-dev")
+set(motion_detection_RUN_DEPENDS "pcl_conversions" "pcl_ros" "roscpp" "rospy" "std_msgs" "libpcl-all")
+set(motion_detection_BUILDTOOL_DEPENDS "catkin")

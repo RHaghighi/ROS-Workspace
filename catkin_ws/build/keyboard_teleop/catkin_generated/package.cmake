@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "keyboard_teleop")
+set(keyboard_teleop_MAINTAINER "reza <reza@todo.todo>")
+set(keyboard_teleop_DEPRECATED "")
+set(keyboard_teleop_VERSION "0.0.0")
+set(keyboard_teleop_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(keyboard_teleop_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(keyboard_teleop_BUILDTOOL_DEPENDS "catkin")

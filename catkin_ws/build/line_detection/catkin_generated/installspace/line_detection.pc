@@ -1,0 +1,8 @@
+prefix=/home/reza/catkin_ws/install
+
+Name: line_detection
+Description: Description of line_detection
+Version: 0.0.0
+Cflags: -I/home/reza/catkin_ws/install/include
+Libs: -L/home/reza/catkin_ws/install/lib -lline_detection
+Requires: pcl_conversions pcl_ros roscpp sensor_msgs

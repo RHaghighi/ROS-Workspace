@@ -1,0 +1,8 @@
+prefix=/home/reza/catkin_ws/devel
+
+Name: mybot_description
+Description: Description of mybot_description
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/reza/catkin_ws/devel/lib 
+Requires: 

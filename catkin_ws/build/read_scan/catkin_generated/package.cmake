@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "read_scan")
+set(read_scan_MAINTAINER "reza <reza@todo.todo>")
+set(read_scan_DEPRECATED "")
+set(read_scan_VERSION "0.0.0")
+set(read_scan_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(read_scan_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(read_scan_BUILDTOOL_DEPENDS "catkin")

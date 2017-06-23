@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "publish_vel")
+set(publish_vel_MAINTAINER "reza <reza@todo.todo>")
+set(publish_vel_DEPRECATED "")
+set(publish_vel_VERSION "0.0.0")
+set(publish_vel_BUILD_DEPENDS "roscpp" "rospy" "std_msgs")
+set(publish_vel_RUN_DEPENDS "roscpp" "rospy" "std_msgs")
+set(publish_vel_BUILDTOOL_DEPENDS "catkin")

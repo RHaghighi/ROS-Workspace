@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "line_detection")
+set(line_detection_MAINTAINER "reza <reza@todo.todo>")
+set(line_detection_DEPRECATED "")
+set(line_detection_VERSION "0.0.0")
+set(line_detection_BUILD_DEPENDS "pcl_conversions" "pcl_ros" "roscpp" "sensor_msgs")
+set(line_detection_RUN_DEPENDS "pcl_conversions" "pcl_ros" "roscpp" "sensor_msgs")
+set(line_detection_BUILDTOOL_DEPENDS "catkin")

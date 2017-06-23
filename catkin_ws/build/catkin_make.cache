@@ -1,0 +1,2 @@
+beginner_tutorials:keyboard_teleop:learning_tf:line_detection:motion_detection:mybot_control:mybot_description:mybot_gazebo:publish_vel:read_scan:relaxed_astar:robot_setup_tf:rosaria:rosaria_client:test_gazebo:vrep_common:vrep_plugin:vrep_youbot_plugin
+-DCATKIN_DEVEL_PREFIX=/home/reza/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/reza/catkin_ws/install -G Unix Makefiles
